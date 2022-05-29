@@ -15,7 +15,7 @@ h2{
     background-image: url(top-top.png);
     background-repeat: no-repeat;
 }
-.container{
+#con1{
     background-color: rgba(155, 14, 108, 0.384);
     border-radius: 30px;
     margin-top: 50px;
@@ -28,4 +28,28 @@ h2{
     /* margin-top: -1%; */
     
    
+}
+#con2{
+    width: 100%;
+    height:400px;
+    background-color: rgba(0, 255, 0, 0.349);
+   margin:100px;
+    display: flex;
+    overflow: hidden;
+    padding:40px;
+    
+}
+.one{
+    padding:5%;
+    margin:10%;
+    
+    height:auto;
+    background-color: snow;
+}
+.two{
+    
+    height:auto;
+    margin:10%;
+    padding:5%;
+    background-color: snow;
 }
