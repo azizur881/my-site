@@ -1,0 +1,31 @@
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+.name{
+    color: snow;
+    
+}
+.row{
+    background-image: url(top-top.png);
+    background-repeat: no-repeat;
+}
+.container{
+    background-color: rgba(155, 14, 108, 0.384);
+    border-radius: 30px;
+    margin-top: 50px;
+    
+
+}
+.main-head{
+    
+ 
+    /* margin-top: -1%; */
+    
+   
+}
